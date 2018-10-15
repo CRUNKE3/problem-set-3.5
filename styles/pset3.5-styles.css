@@ -11,5 +11,9 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 40%;
+  display: block;
+}
 
+a:hover{
+  color: #ff1616;
 }
