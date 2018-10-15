@@ -1,7 +1,15 @@
 body {
-  background-color: #f7d874;
+  background-color: #b7e2d6;
 }
 
-title {
-  color: #5dad95;
+h1 {
+  color: #9800ff;
+  text-align: center;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+
 }
