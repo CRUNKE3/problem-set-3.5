@@ -2,6 +2,18 @@ body {
   background-color: #b7e2d6;
 }
 
+#MealsoftheDay {
+  background-color: #fc8585;
+}
+
+#Preparation {
+  background-color: #a0a3ff;
+}
+
+#Presentation {
+  background-color: #ddf477;
+}
+
 h1 {
   color: #9800ff;
   text-align: center;
@@ -14,6 +26,19 @@ h2 {
   text-decoration: underline;
 }
 
+.different {
+  color: #31916c;
+}
+
+h3 {
+  color: #31916c;
+  text-decoration: underline;
+}
+
+table{
+  background-color: white;
+}
+
 img {
   margin-left: auto;
   margin-right: auto;
@@ -23,4 +48,8 @@ img {
 
 a:hover{
   color: #ff1616;
+}
+
+ol {
+  font-size: 18px;
 }
