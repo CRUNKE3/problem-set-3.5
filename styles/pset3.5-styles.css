@@ -1,5 +1,6 @@
 body {
   background-color: #b7e2d6;
+  font-family: "Comic Sans Ms";
 }
 
 #MealsoftheDay {
@@ -30,7 +31,7 @@ h2 {
   color: #31916c;
 }
 
-h3 {
+h3, h4 {
   color: #31916c;
   text-decoration: underline;
 }
@@ -44,6 +45,9 @@ img {
   margin-right: auto;
   width: 40%;
   display: block;
+  border-style: groove;
+  border-width: 12.5px;
+  border-color: green;
 }
 
 a:hover{
@@ -52,4 +56,5 @@ a:hover{
 
 ol {
   font-size: 18px;
+  font-weight: bold;
 }
