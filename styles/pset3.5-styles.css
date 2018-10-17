@@ -5,6 +5,13 @@ body {
 h1 {
   color: #9800ff;
   text-align: center;
+  font-family: "Comic Sans Ms";
+  text-decoration: underline;
+}
+
+h2 {
+  color: #b984f9;
+  text-decoration: underline;
 }
 
 img {
