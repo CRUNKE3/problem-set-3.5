@@ -73,3 +73,7 @@ p {
 footer {
   text-align: center;
 }
+
+.orderlist {
+  list-style: none;
+}
