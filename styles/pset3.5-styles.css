@@ -60,6 +60,10 @@ a:hover{
   color: #ff1616;
 }
 
+a:visited {
+  color: color: #0c00ff;
+}
+
 ol {
   font-size: 18px;
   font-weight: bold;
