@@ -64,7 +64,7 @@ a:visited {
   color: color: #0c00ff;
 }
 
-ol {
+ol>li {
   font-size: 18px;
   font-weight: bold;
   text-align: center;
