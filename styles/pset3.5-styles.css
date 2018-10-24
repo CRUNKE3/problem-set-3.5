@@ -45,6 +45,10 @@ table{
   margin-right: auto;
 }
 
+td:hover {
+  background-color: #9ec3ff;
+}
+
 img {
   margin-left: auto;
   margin-right: auto;
