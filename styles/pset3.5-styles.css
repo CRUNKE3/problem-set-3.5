@@ -45,7 +45,7 @@ table{
   margin-right: auto;
 }
 
-td:hover {
+tr:hover {
   background-color: #9ec3ff;
 }
 
